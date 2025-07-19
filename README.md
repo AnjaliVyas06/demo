@@ -1,3 +1,3 @@
 # demo
 This is my first git repository
-Author - Anjali Vyas
+Author - Anjali M Vyas
